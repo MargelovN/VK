@@ -18,5 +18,17 @@ public class VkPost {
     private int markedAsAds;
     private boolean isFavorite;
     private int postponedId;
+
+    private CommentsInfo commentsInfo;
+    private Copyright copyright;
+    private Donut donut;
+    private Geo geo;
+    private LikesInfo likesInfo;
+    private Place place;
+    private Placeholder placeholder;
+    private PostSource postSource;
+    private RepostsInfo repostsInfo;
+    private ViewsInfo viewsInfo;
+
     // + get/set на все поля
 }
